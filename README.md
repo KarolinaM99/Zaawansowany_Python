@@ -1,1 +1,2 @@
-# Zaawansowany_Python
+# Zaawansowany język Python
+Karolina Maliszewska
